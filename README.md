@@ -11,6 +11,11 @@ Apresento com entusiasmo o NeuroENEM **(IA aberta para turbinar os estudos para 
 🔍 Desenvolvido com Intel OpenVINO, o NeuroENEM traz alto desempenho mesmo em hardware modesto — um grande passo em direção à inclusão digital na educação.
 📘 Vamos juntos transformar o acesso à preparação para o ENEM com tecnologia aberta e acessível!
 
+## 📬 Contato
+
+Sinta-se à vontade para relatar um problema, comentar nas Discussões ou entrar em contato se quiser colaborar.
+
+Alessandro de Oliveira Faria (A.K.A. CABELO) - cabelo@multicortex.ai
 
 ## 🎥 Demo Video
 
