@@ -10,3 +10,8 @@ Apresento com entusiasmo o NeuroENEM **(IA aberta para turbinar os estudos para 
     • Baseado em uma colaboração entre Google DeepMind e instituições brasileiras como ABRIA, CEIA-UFG, Nama e Amadeus AI.
 🔍 Desenvolvido com Intel OpenVINO, o NeuroENEM traz alto desempenho mesmo em hardware modesto — um grande passo em direção à inclusão digital na educação.
 📘 Vamos juntos transformar o acesso à preparação para o ENEM com tecnologia aberta e acessível!
+
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/-zbncvIPKEE/hqdefault.jpg)](https://www.youtube.com/watch?v=-zbncvIPKEE)
